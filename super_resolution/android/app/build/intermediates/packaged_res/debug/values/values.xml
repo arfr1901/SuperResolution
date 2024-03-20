@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tfe_color_accent">#425066</color>
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_light_gray">#E4E4E4</color>
+    <color name="tfe_semi_transparent">#66000000</color>
+    <string name="app_name" translatable="false">TFL Super Resolution</string>
+    <string name="choose_image" translatable="false">Choose a low resolution image below:</string>
+    <string name="chosen_image_text" translatable="false">You are using low resolution image: None.</string>
+    <string name="gpu" translatable="false">GPU</string>
+    <string name="low_resolution_1" translatable="false">insect head</string>
+    <string name="low_resolution_2" translatable="false">lights</string>
+    <string name="low_resolution_3" translatable="false">cat ear</string>
+    <string name="natively_scaled_image" translatable="false">Android ImageView-scaled image:</string>
+    <string name="simple_explanation" translatable="false">(Clicking UPSAMPLE button below will use TFLite to generate a corresponding high resolution image based on your chosen image.)</string>
+    <string name="super_resolution_image" translatable="false">Super resolution image:</string>
+    <string name="upsample" translatable="false">Upsample</string>
+    <style name="AppTheme.SuperResolution" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/tfe_color_primary</item>
+        <item name="colorPrimaryDark">@color/tfe_color_primary_dark</item>
+        <item name="colorAccent">@color/tfe_color_accent</item>
+    </style>
+</resources>

@@ -1,0 +1,3 @@
+C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/.cxx/Debug/5r6t5o2i/arm64-v8a/CMakeFiles/SuperResolution.dir
+C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/.cxx/Debug/5r6t5o2i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/.cxx/Debug/5r6t5o2i/arm64-v8a/CMakeFiles/rebuild_cache.dir

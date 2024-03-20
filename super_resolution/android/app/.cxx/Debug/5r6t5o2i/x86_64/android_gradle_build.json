@@ -1,0 +1,55 @@
+{
+  "buildFiles": [
+    "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\darks\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe",
+      "-C",
+      "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\Debug\\5r6t5o2i\\x86_64",
+      "-t",
+      "clean"
+    ]
+  ],
+  "libraries": {
+    "SuperResolution": {
+      "artifactName": "SuperResolution",
+      "buildCommandComponents": [
+        "C:\\Users\\darks\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe",
+        "-C",
+        "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\Debug\\5r6t5o2i\\x86_64",
+        "C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/build/intermediates/cxx/Debug/5r6t5o2i/obj/x86_64/libSuperResolution.so"
+      ],
+      "abi": "x86_64",
+      "output": "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\build\\intermediates\\cxx\\Debug\\5r6t5o2i\\obj\\x86_64\\libSuperResolution.so",
+      "runtimeFiles": [
+        "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\libraries\\tensorflowlite\\jni\\x86_64\\libtensorflowlite_jni.so",
+        "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\libraries\\tensorflowlite-gpu\\jni\\x86_64\\libtensorflowlite_gpu_jni.so"
+      ]
+    },
+    "tensorflowlite_jni": {
+      "artifactName": "tensorflowlite_jni",
+      "buildCommandComponents": [
+        "C:\\Users\\darks\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe",
+        "-C",
+        "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\Debug\\5r6t5o2i\\x86_64",
+        "C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite/jni/x86_64/libtensorflowlite_jni.so"
+      ],
+      "abi": "x86_64",
+      "output": "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\libraries\\tensorflowlite\\jni\\x86_64\\libtensorflowlite_jni.so",
+      "runtimeFiles": []
+    },
+    "tensorflowlite_gpu_jni": {
+      "artifactName": "tensorflowlite_gpu_jni",
+      "buildCommandComponents": [
+        "C:\\Users\\darks\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe",
+        "-C",
+        "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\app\\.cxx\\Debug\\5r6t5o2i\\x86_64",
+        "C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite-gpu/jni/x86_64/libtensorflowlite_gpu_jni.so"
+      ],
+      "abi": "x86_64",
+      "output": "C:\\a_Skola\\ImageSuperResolution\\examples\\lite\\examples\\super_resolution\\android\\libraries\\tensorflowlite-gpu\\jni\\x86_64\\libtensorflowlite_gpu_jni.so",
+      "runtimeFiles": []
+    }
+  }
+}

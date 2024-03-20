@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\a_Skola\ImageSuperResolution\examples\lite\examples\super_resolution\android\app\.cxx\Debug\5r6t5o2i\x86_64'
+ninja: no work to do.

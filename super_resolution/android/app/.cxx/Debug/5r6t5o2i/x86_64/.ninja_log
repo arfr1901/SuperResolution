@@ -1,0 +1,4 @@
+# ninja log v5
+0	330	0	CMakeFiles/SuperResolution.dir/SuperResolution_jni.cpp.o	f3998a3b57dfc6c9
+4	534	0	CMakeFiles/SuperResolution.dir/SuperResolution.cpp.o	ea73d598b0c98da1
+534	611	0	C:/a_Skola/ImageSuperResolution/examples/lite/examples/super_resolution/android/app/build/intermediates/cxx/Debug/5r6t5o2i/obj/x86_64/libSuperResolution.so	c3b6b9723207bd19
